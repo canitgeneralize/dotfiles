@@ -1,0 +1,5 @@
+[user]
+	email = glewis17@cs.stanford.edu
+	name = Gene Lewis
+[pull]
+	rebase = true
